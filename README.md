@@ -19,9 +19,28 @@ A simple, clean grocery list web app built with **HTML**, **CSS**, and **JavaScr
 1. Open `index.html` in any browser.
 2. Type an item (e.g., "Milk", "Bread") and click **Add**.
 3. Click **Remove** to delete an individual item.
-4. Use the **Clear All** button to wipe the list.
+4. Use the **Clear All** button to wipe the list
+
 
 ---
 
-## 📁 Folder Structure
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Browser localStorage
+
+---
+
+## 📜 License
+
+This project is open-source under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ Author
+
+**Caden** — [@cadenself](https://github.com/cadenself)
+
 
